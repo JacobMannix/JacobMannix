@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 #### Connect with me:
 [![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=d59373)](https://www.linkedin.com/in/jacobmannix/)
-[![](https://img.shields.io/badge/Social-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=d59373)](https://www.linkedin.com/in/jacobmannix/)
-[![](https://img.shields.io/badge/Social-Website-informational?style=flat&logo=notion&logoColor=white&color=d59373)](https://www.jacobmannix.social/)
+[![](https://img.shields.io/badge/Social-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=d59373)](https://www.kaggle.com/jmannix3)
+[![](https://img.shields.io/badge/Social-Website-informational?style=flat&logo=notion&logoColor=white&color=d59373)](https://jacobmannix.social/)
 
 #### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=a8875c)
