@@ -32,13 +32,10 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-
-
 ![Colab](https://colab.research.google.com/assets/colab-badge.svg?style=flat&logo=colab-badge&logoColor=white&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=colab-badge&logoColor=white&color=2bbc8a)
-
 
 ![](https://img.shields.io/badge/Tech-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
