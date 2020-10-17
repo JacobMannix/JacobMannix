@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- :space_invader: Recent graduate of **University of New Hampshire**
-- :seedling: I'm currenly learning **Python Machine Learning, Linux, Kubernetes, Docker and R**
+- 👨‍💻 Open to Work
+- :school: Recent graduate from **The University of New Hampshire** 
+- :seedling: I'm currenly learning **Python Machine Learning, Linux and Kubernetes**
 
 
 #### Languages and Tools:
