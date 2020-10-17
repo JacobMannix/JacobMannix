@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
