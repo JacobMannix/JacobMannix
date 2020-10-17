@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=8c7450)](https://www.docker.com/)
 [![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=8c7450)](https://kubernetes.io/)
 
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=706240)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=706240)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=706240)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=706240)](https://www.vim.org/)
 [![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=8c7450)](https://code.visualstudio.com/)
