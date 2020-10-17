@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 👨‍💻 Open to Work
 - :school: Recent graduate from **The University of New Hampshire** 
-- :seedling: I'm currenly learning **Python Machine Learning, Linux and Kubernetes**
+- 🌱 I'm currently learning **Python Machine Learning, Linux and Kubernetes**
 
+#### Connect with me:
+[![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/jacobmannix/)
+[![](https://img.shields.io/badge/Social-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/jacobmannix/)
+[![](https://img.shields.io/badge/Social-Website-informational?style=flat&logo=notion&logoColor=white&color=2bbc8a)](https://www.jacobmannix.social/)
 
 #### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
