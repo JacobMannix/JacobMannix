@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-#### Github Value
+<!-- #### Github Value -->
 <p align="left">
   <a href="https://github.com/JacobMannix">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobMannix&hide=vim script" />
