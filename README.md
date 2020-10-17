@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=706240)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=8c7450)
 ![](https://img.shields.io/badge/Tools-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=8c7450)
-![Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![](https://colab.research.google.com/assets/colab-badge.svg)
 
 <!-- #### Github Value 
 <p align="left">
