@@ -29,17 +29,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![Colab](https://colab.research.google.com/assets/colab-badge.svg)
-
-
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=colab-badge&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Tech-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 
 #### Github Value
 <p align="left">
@@ -47,6 +39,6 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobMannix&hide=vim script" />
   </a>
   <a href="https://github.com/JacobMannix">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacobMannix&show_icons=true&line_height=33&count_private=true" alt="Jacob's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacobMannix&show_icons=true&line_height=30&count_private=true" alt="Jacob's GitHub Stats" />
   </a>
 </p>
