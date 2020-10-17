@@ -39,6 +39,6 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobMannix&hide=vim script" />
   </a>
   <a href="https://github.com/JacobMannix">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacobMannix&show_icons=true&line_height=30&count_private=true" alt="Jacob's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacobMannix&show_icons=true&line_height=40&count_private=true" alt="Jacob's GitHub Stats" />
   </a>
 </p>
