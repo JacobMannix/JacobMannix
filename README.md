@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=a8875c)](https://www.python.org/)
 [![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=a8875c)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=a8875c)](https://swift.org/)
+[![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=8c7450)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=8c7450)](https://www.docker.com/)
 [![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=8c7450)](https://kubernetes.io/)
+
 
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=706240)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=706240)](https://www.gnu.org/software/bash/)
