@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning **Python Machine Learning, Linux and Kubernetes**
 
 #### Connect with me:
-[![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=d59373)](https://www.linkedin.com/in/jacobmannix/)
-[![](https://img.shields.io/badge/Social-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=d59373)](https://www.kaggle.com/jmannix3)
-[![](https://img.shields.io/badge/Social-Website-informational?style=flat&logo=notion&logoColor=white&color=d59373)](https://jacobmannix.social/)
+[![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=d59373)][linkedin]
+[![](https://img.shields.io/badge/Social-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=d59373)][kaggle]
+[![](https://img.shields.io/badge/Social-Website-informational?style=flat&logo=notion&logoColor=white&color=d59373)][website]
 
 #### Languages and Tools:
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=a8875c)](https://www.python.org/)
@@ -40,7 +40,27 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Tools-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=8c7450)](https://jupyter.org/)
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
-<!-- #### Github Value 
+<br />
+
+[website]: https://jacobmannix.social
+[linkedin]: https://linkedin.com/in/jacobmannix
+[kaggle]: https://kaggle.com/jmannix3
+[spotify]: https://open.spotify.com/user/jmannix3
+
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <p align="left">
   <a href="https://github.com/JacobMannix">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobMannix&hide=vim script" />
@@ -48,4 +68,6 @@ Here are some ideas to get you started:
    <a href="https://github.com/JacobMannix">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacobMannix&show_icons=true&line_height=40&count_private=true" alt="Jacob's GitHub Stats" />
   </a> 
-</p> -->
+</p>
+</details>
+
