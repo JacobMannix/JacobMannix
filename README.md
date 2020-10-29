@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Tools-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=8c7450)](https://jupyter.org/)
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
-[![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=706240)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=706240)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Library-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=706240)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Library-SciKit-Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=706240)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Library-MatPlotLib-informational?style=flat&logo=matplotlib&logoColor=white&color=706240)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=keras&logoColor=white&color=706240)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Library-BeautifulSoup-informational?style=flat&logo=beaustifulsoup&logoColor=white&color=706240)](https://ubuntu.com/)
-
+#### Python Libraries
+[![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=706240)]()
+[![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=706240)]()
+[![](https://img.shields.io/badge/Library-SciKit-Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=706240)]()
+[![](https://img.shields.io/badge/Library-BeautifulSoup-informational?style=flat&logo=beaustifulsoup&logoColor=white&color=706240)]()
+[![](https://img.shields.io/badge/Library-MatPlotLib-informational?style=flat&logo=matplotlib&logoColor=white&color=706240)]()
+[![](https://img.shields.io/badge/Library-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=706240)]()
+[![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=keras&logoColor=white&color=706240)]()
 
 <br />
 
