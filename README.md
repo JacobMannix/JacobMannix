@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 #### Languages and Tools:
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=a8875c)](https://www.python.org/)
 [![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=a8875c)](https://www.r-project.org/)
+[![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mariadb&logoColor=white&color=a8875c)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=a8875c)](https://swift.org/)
 [![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=8c7450)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=8c7450)](https://www.docker.com/)
