@@ -46,10 +46,21 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=706240)](https://numpy.org/)
 [![](https://img.shields.io/badge/Library-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=706240)](https://scikit-learn.org/)
 [![](https://img.shields.io/badge/Library-BeautifulSoup-informational?style=flat&logo=beaustifulsoup&logoColor=white&color=706240)](https://www.crummy.com/software/BeautifulSoup/)
+[![](https://img.shields.io/badge/Library-Requests-informational?style=flat&logo=requests&logoColor=white&color=706240)](https://requests.readthedocs.io/en/master/)
 [![](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=706240)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/Library-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=706240)](https://seaborn.pydata.org/)
 [![](https://img.shields.io/badge/Library-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=706240)](https://www.scipy.org/)
+[![](https://img.shields.io/badge/Library-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=706240)](https://www.nltk.org/)
+[![](https://img.shields.io/badge/Library-Textblob-informational?style=flat&logo=textblob&logoColor=white&color=706240)](https://textblob.readthedocs.io/en/dev/)
+[![](https://img.shields.io/badge/Library-Vader_Sentiment-informational?style=flat&logo=vader&logoColor=white&color=706240)](https://github.com/cjhutto/vaderSentiment)
 [![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=keras&logoColor=white&color=706240)](https://keras.io/)
 
+
+<!--
+SpaCy
+Plotly
+
+-->
 <br />
 
 [website]: https://jacobmannix.social
