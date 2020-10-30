@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
 #### Python Libraries
-[![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=706240)]()
-[![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=706240)]()
-[![](https://img.shields.io/badge/Library-SciKit-Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=706240)]()
-[![](https://img.shields.io/badge/Library-BeautifulSoup-informational?style=flat&logo=beaustifulsoup&logoColor=white&color=706240)]()
-[![](https://img.shields.io/badge/Library-MatPlotLib-informational?style=flat&logo=matplotlib&logoColor=white&color=706240)]()
-[![](https://img.shields.io/badge/Library-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=706240)]()
-[![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=keras&logoColor=white&color=706240)]()
+[![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=706240)](https://pandas.pydata.org/)
+[![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=706240)](https://numpy.org/)
+[![](https://img.shields.io/badge/Library-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=706240)](https://scikit-learn.org/)
+[![](https://img.shields.io/badge/Library-BeautifulSoup-informational?style=flat&logo=beaustifulsoup&logoColor=white&color=706240)](https://www.crummy.com/software/BeautifulSoup/)
+[![](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=706240)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/Library-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=706240)](https://www.scipy.org/)
+[![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=keras&logoColor=white&color=706240)](https://keras.io/)
 
 <br />
 
