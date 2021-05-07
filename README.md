@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 Open to Work
 - :school: Recent graduate from **The University of New Hampshire** 
 - 🌱 I'm currently learning **Python Machine Learning, Linux and Kubernetes**
 
