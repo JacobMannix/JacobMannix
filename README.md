@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :school: Recent graduate from **The University of New Hampshire** 
-- 🌱 I'm currently learning **Python Machine Learning, Linux and Kubernetes**
+- 🌱 I'm currently learning **Python Machine Learning, Linux, Kubernetes and Fusion 360**
 
 #### Connect with me:
 [![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=d59373)][linkedin]
