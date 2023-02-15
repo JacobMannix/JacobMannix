@@ -1,0 +1,3 @@
+||shorts.youtube.com^
+||shorts-frontend-pa.googleapis.com^
+||i.ytimg.com^
