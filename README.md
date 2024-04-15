@@ -63,12 +63,12 @@ Plotly
 -->
 <br />
 
-[website]: https://jacobmannix.social
+<!-- [website]: https://jacobmannix.social -->
 [linkedin]: https://linkedin.com/in/jacobmannix
 [kaggle]: https://kaggle.com/jmannix3
-[spotify]: https://open.spotify.com/user/jmannix3
+<!-- [spotify]: https://open.spotify.com/user/jmannix3 -->
 
-<--
+<!--
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p align="left">
