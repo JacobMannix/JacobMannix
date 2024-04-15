@@ -68,6 +68,7 @@ Plotly
 [kaggle]: https://kaggle.com/jmannix3
 [spotify]: https://open.spotify.com/user/jmannix3
 
+<--
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p align="left">
@@ -79,4 +80,5 @@ Plotly
   </a> 
 </p>
 </details>
+-->
 
