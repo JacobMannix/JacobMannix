@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :school: Recent graduate from **The University of New Hampshire** 
+- Senior Data Analyst
+- :school: **The University of New Hampshire** alumni
 - 🌱 I'm currently learning **Python Machine Learning, Linux, Kubernetes and Fusion 360**
 
 #### Connect with me:
